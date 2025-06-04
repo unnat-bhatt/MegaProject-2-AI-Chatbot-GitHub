@@ -2,7 +2,7 @@ This is a Automatic replying whatsapp chatbot
 
 requirements:-
 
-user should have their own Open ai Api key to paste it in start of New_Porgram.py
+user should have their own Open ai Api key to paste it in start of New_Program.py
 
 what are its benifts :-
 1) This autoamtic replying chatbot is made with the help of OpenAi 
