@@ -1,12 +1,13 @@
 This is a Automatic replying whatsapp chatbot 
+
 requirements:-
 
 user should have their own Open ai Api key to paste it in start of New_Porgram.py
 
 what are its benifts :-
-This autoamtic replying chatbot is made with the help of OpenAi 
-Manages,Analyses,creates Real time Reaponses using Ai 
-
+1) This autoamtic replying chatbot is made with the help of OpenAi 
+2) Manages,Analyses,creates Real time Reaponses using Ai 
+ 
 
 how it works :- 
 Using PyautoGui module and Cusor.py python file, this program first
